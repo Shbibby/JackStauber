@@ -1,0 +1,81 @@
+header {
+  color: #c0a767;
+  text-align: center;
+}
+
+body {
+    background-color: #5e3718;
+    width: 75%;
+      min-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+.JackText {
+  color:#e8d59a;
+}
+
+.JackLink {
+  color:#ad8643;
+  font-size: 30px;
+}
+
+.JackList{
+  color: #c0a767;
+}
+
+#hilo {
+  color: #e8d59a;
+  text-align: left;
+}
+
+#pop {
+  color: #387565;
+  text-align: left;
+}
+
+#finite {
+  color:#a869b8;
+  text-align: left;
+}
+
+#viat {
+  color: #e1d1c1;
+  text-align: left;
+}
+
+
+  /* h1, h2 {
+    color: #c0a767;
+  }
+
+  a {
+    color:#ad8643;
+    font-size: 30px;
+  }
+
+  p {
+    color:#e8d59a;
+  }
+
+  p, li {
+    font-size: 24px;
+    font-family: cursive;
+  }
+
+  .hilo {
+    color: #e8d59a;
+  }
+
+  .pop {
+    color: #387565;
+  }
+
+  .finite {
+    color:#a869b8;
+  }
+
+  .viat {
+    color: #e1d1c1;
+  }
+ */
