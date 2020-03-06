@@ -2,6 +2,7 @@ header {
   color: #c0a767;
   text-align: center;
 }
+/* colors and aligns "Jack Stauber" header */
 
 body {
     background-color: #5e3718;
@@ -10,72 +11,46 @@ body {
     margin: 0 auto;
     text-align: center;
   }
+  /* colors page background and defines space for everything to fit in */
 
 .JackText {
   color:#e8d59a;
 }
+/* makes color for standard text */
 
 .JackLink {
   color:#ad8643;
   font-size: 30px;
 }
+/* makes color for links */
 
 .JackList{
   color: #c0a767;
 }
+/* makes color for list header */
 
 #hilo {
   color: #e8d59a;
   text-align: left;
 }
+/* makes color for hilo list item */
 
 #pop {
   color: #387565;
   text-align: left;
 }
+/* makes color for pop food list item */ 
+
 
 #finite {
   color:#a869b8;
   text-align: left;
 }
+/* makes color for finite form list item */ 
+
 
 #viat {
   color: #e1d1c1;
   text-align: left;
 }
-
-
-  /* h1, h2 {
-    color: #c0a767;
-  }
-
-  a {
-    color:#ad8643;
-    font-size: 30px;
-  }
-
-  p {
-    color:#e8d59a;
-  }
-
-  p, li {
-    font-size: 24px;
-    font-family: cursive;
-  }
-
-  .hilo {
-    color: #e8d59a;
-  }
-
-  .pop {
-    color: #387565;
-  }
-
-  .finite {
-    color:#a869b8;
-  }
-
-  .viat {
-    color: #e1d1c1;
-  }
- */
+/* makes color for viator list item */ 
