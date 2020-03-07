@@ -1,13 +1,44 @@
-.pMargin{
-    width: 500px;
-    height: 500px;
-    background-color:blue;
+.container {
+    margin: 0 auto;
+    margin-top: 76px;
+    /* width: 1200px; */
+    max-width: 1800px;
+    min-width: 600px;
+}
+/* contains the content and side banner */
+
+.background {
+    background-color: var(--wood);
 }
 
-.pBorder{
-
+.headerBanner {
+    overflow: hidden;
+    background-color: var(--keyW);
+    opacity: 100%;
+    position: fixed;
+    top: 0;
+    float: top;
+    width: 100%;
+    height: 75px;
 }
+/* top banner */
 
-.pPadding{
-
+.mainContent {
+    float: left;
+    height: 2000px;
+    width: 68%;
+    border: 2px solid var(--lines);
+    margin: 0px 0px 0px 1%;
+    background-color: var(--bgroundL);
 }
+/* left box with text */
+
+.sideBanner {
+    float: left;
+    height: 2000px;
+    width: 28%;
+    border: 2px solid var(--lines);
+    margin: 0px 0px 0px 10px;
+    background-color: var(--bgroundR);
+}
+/* right banner  */
